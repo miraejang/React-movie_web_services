@@ -4,7 +4,7 @@ class Detail extends React.Component {
     componentDidMount() {
         const { location, history } = this.props;
         if (location.state === undefined) {
-            history.push("/");
+            history.push("/react-movie-web-services/");
         }
     }
     render() {

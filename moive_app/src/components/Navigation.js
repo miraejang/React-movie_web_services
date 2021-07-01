@@ -5,8 +5,8 @@ import "./Navigation.css";
 function Navigation() {
     return (
         <nav>
-            <Link to="/">Home</Link>
-            <Link to="/about">About</Link>
+            <Link to="/react-movie-web-services/">Home</Link>
+            <Link to="/react-movie-web-services/about">About</Link>
         </nav>
     )
 }
