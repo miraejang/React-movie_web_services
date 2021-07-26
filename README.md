@@ -1,1 +1,3 @@
-# React Movie Web Services
+# Movie App
+
+React JS Fundamentals Course!
